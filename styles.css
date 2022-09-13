@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: darkgrey;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
